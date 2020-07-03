@@ -2267,6 +2267,16 @@ input, select, textarea {
 			letter-spacing: 0.05em;
 		}
 
+
+/* exp */
+
+	#exp{
+		text-align: center;
+		padding-left: 15%;
+		padding-right: 15%;
+	}
+
+
 /* Main */
 
 /* Footer */
